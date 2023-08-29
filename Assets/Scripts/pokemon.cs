@@ -8,7 +8,7 @@ public class pokemon : MonoBehaviour
     private Rigidbody2D rigidbody;
     private float speed = 60f;
     private float heightUp = 1000f;
-    public int countStars = 0;
+    public static int countStars = 0;
     public Text scoreText;
 
     // Start is called before the first frame updatea

@@ -14,4 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SceneNight.unity
     guid: d1beed469df92d7498b2ad50eef4ac05
+  - enabled: 1
+    path: Assets/Scenes/ScenePlanet.unity
+    guid: f5d394f1d74f84540ba2983df16b956f
   m_configObjects: {}
